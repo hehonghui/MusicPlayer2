@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/next.png</file>
+        <file>images/open.png</file>
+        <file>images/play.png</file>
+        <file>images/prev.png</file>
+        <file>images/musicPlayer.png</file>
+        <file>images/close.png</file>
+        <file>images/expand.png</file>
+        <file>images/collapse.png</file>
+        <file>images/logo.png</file>
+        <file>images/push.png</file>
+        <file>images/qt.png</file>
+        <file>images/lrc.png</file>
+        <file>images/minis.png</file>
+        <file>images/clear.png</file>
+        <file>images/remove.png</file>
+        <file>images/tablebg.png</file>
+        <file>images/exitlogo.png</file>
+        <file>images/showlrc.png</file>
+        <file>images/player.png</file>
+    </qresource>
+</RCC>
